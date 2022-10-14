@@ -36,6 +36,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ## Featured Projects
 
-| [![Style Stage: A modern CSS showcase styled by community contributions](https://stylestage.dev/social-img/home/Style%20Stage/)](https://stylestage.dev)  | [![Modern CSS Solutions](https://moderncss.dev/img/social/home.jpeg)](https://moderncss.dev)                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [![11ty Rocks: A collection of Eleventy (11ty) starters, projects, plugins, and resources](https://11ty.rocks/img/previews/home.png)](https://11ty.rocks) | [![SmolCSS: Minimal snippets for modern CSS layouts and components](https://smolcss.dev/smolcss.png)](https://smolcss.dev) |
+| [![Style Stage: A modern CSS showcase styled by community contributions](https://devartist254.github.io/Pig-game/)](https://devartist254.github.io/Pig-game/)           | [![Modern CSS Solutions](https://www.norwaafrica.com/)](https://www.norwaafrica.com/)                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![11ty Rocks: A collection of Eleventy (11ty) starters, projects, plugins, and resources](https://instaclone257.herokuapp.com/)](https://instaclone257.herokuapp.com/) | [![SmolCSS: Minimal snippets for modern CSS layouts and components](https://devartist254.github.io/Bankist/)](https://devartist254.github.io/Bankist/) |
