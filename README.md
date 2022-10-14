@@ -23,19 +23,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📺 Latest Projects
 
-<!-- BEGIN YOUTUBE-CARDS -->
-
-[![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://devartist254.github.io/Pig-game/"I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://devartist254.github.io/Pig-game/)
-[![5 Coding Projects (from beginner to advanced)](https://www.norwaafrica.com/ "5 Coding Projects (from beginner to advanced)")](https://www.norwaafrica.com/)
-[![I Built an AI That Shoots Me in the Face When I Get Distracted](https://instaclone257.herokuapp.com/"I Built an AI That Shoots Me in the Face When I Get Distracted")](https://instaclone257.herokuapp.com/)
-[![Why I’m able to Code 4 Hours with NO breaks (how to stay focused & productive)](https://devartist254.github.io/Bankist/ "Why I’m able to Code 4 Hours with NO breaks (how to stay focused & productive)")](https://devartist254.github.io/Bankist/)
-
-<!-- END YOUTUBE-CARDS -->
-
-#
-
-## Featured Projects
-
-| [![Style Stage: A modern CSS showcase styled by community contributions](https://devartist254.github.io/Pig-game/)](https://images.unsplash.com/photo-1665281004415-ab3dc9648269?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8eGpQUjRobGtCR0F8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60)               | [![Modern CSS Solutions](https://www.norwaafrica.com/)](https://images.unsplash.com/photo-1665281004415-ab3dc9648269?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8eGpQUjRobGtCR0F8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60)                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![11ty Rocks: A collection of Eleventy (11ty) starters, projects, plugins, and resources](https://images.unsplash.com/photo-1665281004415-ab3dc9648269?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8eGpQUjRobGtCR0F8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60)](https://instaclone257.herokuapp.com/) | [![SmolCSS: Minimal snippets for modern CSS layouts and components](https://images.unsplash.com/photo-1665281004415-ab3dc9648269?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8eGpQUjRobGtCR0F8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60)](https://devartist254.github.io/Bankist/) |
+| [![Pig game](https://devartist254.github.io/instaclone/assets/game.png)](https://devartist254.github.io/Pig-game/)                                      | [![Norwa Africa: water treatment ](https://devartist254.github.io/instaclone/assets/norwaafrica.png)](https://www.norwaafrica.com/) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [![A clone for insta gram for uploading images](https://devartist254.github.io/instaclone/assets/instaclone.png)](https://instaclone257.herokuapp.com/) | [![Arrays](https://devartist254.github.io/instaclone/assets/bankist.png)](https://devartist254.github.io/Bankist/)                  |
