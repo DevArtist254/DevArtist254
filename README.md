@@ -21,14 +21,18 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
+
 ### 📺 Latest Projects
 
 | [![Pig game](https://devartist254.github.io/instaclone/assets/game.png)](https://devartist254.github.io/Pig-game/)                                      | [![Norwa Africa: water treatment ](https://devartist254.github.io/instaclone/assets/norwaafrica.png)](https://www.norwaafrica.com/) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [![A clone for insta gram for uploading images](https://devartist254.github.io/instaclone/assets/instaclone.png)](https://instaclone257.herokuapp.com/) | [![Arrays](https://devartist254.github.io/instaclone/assets/bankist.png)](https://devartist254.github.io/Bankist/)                  |
 
+---
+
 <details>
- <summary><h3>👨‍💻 Wasonga's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Wasonga's #Devartist Coding Journey</h3></summary>
    I started my coding journey as a naive udemy student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself fullstack development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Javascript. A desire that landed me a marketing & static web development job upon graduation. However, I had another desire I had been pursuing throughout this time - graphic design. I eventually ended up joining this skills with my fullstack development journey giving me a whole new view in how SEO, marketing and programming give new life to the finished product and am still on that journey of discovery.
 
 [website]: https://devartist254.github.io/DevArtist/
