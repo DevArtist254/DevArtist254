@@ -44,6 +44,5 @@ I'm an indie full-stack developer and content creator building my version of the
 <p>I started my coding journey as a naive udemy student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself fullstack development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Javascript. A desire that landed me a marketing & static web development job upon graduation. However, I had another desire I had been pursuing throughout this time - graphic design. I eventually ended up joining this skills with my fullstack development journey giving me a whole new view in how SEO, marketing and programming give new life to the finished product and am still on that journey of discovery. </p>
 
 [website]: https://devartist254.github.io/DevArtist/
-<a href="https://github.com/CelaDaniel" target="_blank">
-  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
-</a>
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
